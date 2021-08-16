@@ -2,7 +2,7 @@
 
 Using credit card customer data to predict churning by customers
 
-This project was done for the requirements of the module CE9010 Introduction to Data Analysis.
+This project was done for the requirements of the module CE9010 Introduction to Data Analysis. I worked on it with my group members Zhao Zhun [(@Z-Zhao98)](https://github.com/Z-Zhao98) and Oh Bing Quan [(@vincentowens)](https://github.com/vincentowens).
 
 # Data problem
 
